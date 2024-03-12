@@ -18,7 +18,7 @@ Coffee Bar Menu mande in php language where is repetitive data so easier to use 
 ### Executing program
 
 ```
-=> php index.js
+=> php index.php
 
 ```
 Danielle Porto
